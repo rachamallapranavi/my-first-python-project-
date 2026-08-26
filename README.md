@@ -11,6 +11,8 @@ This is my first Python project built as part of my learning journey!
 Written in Python using input(), calculations, and if-else.
 
 ### 👩‍💻 Author: Rachamalla Pranavi
+## Made by Pranavi
+This project was upgraded by me as part of my Python learning journey.
 Learning Python & GitHub from scratch!
 
 ---
